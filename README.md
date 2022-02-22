@@ -1,8 +1,8 @@
 ### :man_technologist: About Me
 
 - 👋 I’m @khairulhabibie
-- 👀 I’m interested in Data Scientis | Web Developer
-- 🌱 I’m currently learning Data Scientist | Web Developer
+- 👀 I’m interested in Data Science | Web Developer
+- 🌱 I’m currently learning Data Science | Web Developer
 - 🤔 I’m looking for help with youtube.com, stackoverflow, telegram community, etc
 - 📫 How to reach me   <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
