@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Data Scientist | Web Developer
 - 🤔 I’m looking for help with youtube.com, stackoverflow, telegram community, etc
 - 📫 How to reach me khairulhabibie01@gmail.com
-- ⚡ Fun fact: I Play Rise of Kingdoms in KD.2315
+- ⚡ Fun fact: I Play Rise of Kingdoms in 2315
 
 <!--
 **khairulhabibie/khairulhabibie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
