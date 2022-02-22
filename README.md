@@ -8,10 +8,9 @@
 
 ### Connect with me
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/khairul-habibie-460833140/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=0072b1"  height="25" width="auto"></a>
-  </p>
-
+</p>
 ---
 
 ### :man_technologist: About Me
@@ -20,6 +19,7 @@
 - 👀 I’m interested in Data Science | Web Developer
 - 🌱 I’m currently learning Data Science | Web Developer
 - 🤔 I’m looking for help with youtube.com, stackoverflow, telegram community, etc
+- 🕸️ Check out my Portfolio at https://khairulhabibie.github.io/
 - ⚡ Fun fact: I Play Rise of Kingdoms in 2315
 
 ---
