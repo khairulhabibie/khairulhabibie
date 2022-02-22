@@ -17,9 +17,9 @@
 ### :man_technologist: About Me
 
 - 👋 I’m @khairulhabibie
-- 👀 I’m interested in Data Science | Web Developer
-- 🌱 I’m currently learning Data Science | Web Developer
-- 🤔 I’m looking for help with youtube.com, stackoverflow, telegram community, etc
+- 👀 I’m interested in Data Science | Web Development
+- 🌱 I’m currently learning Data Science | Web Development
+- 🤔 I’m looking for help with youtube, stackoverflow, telegram community, etc
 - 🕸️ Check out my Portfolio at https://khairulhabibie.github.io/
 - ⚡ Fun fact: I Play Rise of Kingdoms in 2315
 
