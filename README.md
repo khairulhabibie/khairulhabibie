@@ -6,7 +6,7 @@
  
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
   <div id="badges">
-    <a href=https://www.linkedin.com/in/khairul-habibie-460833140/">
+    <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -20,7 +20,7 @@
 - 👀 I’m interested in Data Scientis | Web Developer
 - 🌱 I’m currently learning Data Scientist | Web Developer
 - 🤔 I’m looking for help with youtube.com, stackoverflow, telegram community, etc
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-khairulhabibie-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khairul-habibie-460833140)
 - ⚡ Fun fact: I Play Rise of Kingdoms in 2315
 
 ---
