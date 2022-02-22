@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there
 
-- 👋 Hi, I’m @khairulhabibie
+- 👋 I’m @khairulhabibie
 - 👀 I’m interested in Data Scientis
 - 🌱 I’m currently learning Data Scientist
 - 🤔 I’m looking for help with youtube.com, stackoverflow, telegram community, etc
