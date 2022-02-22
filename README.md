@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
   <div id="badges">
-  <a href=https://www.linkedin.com/in/khairul-habibie-460833140/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://khairulhabibie.github.io/">
-    <img src="https://img.shields.io/badge/Blog-red?style=for-the-badge&logo=blog&logoColor=white" alt="Blog Badge"/>
-  </a>
-</div>
+    <a href=https://www.linkedin.com/in/khairul-habibie-460833140/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://khairulhabibie.github.io/">
+      <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=blog&logoColor=white" alt="Blog Badge"/>
+    </a>
+  </div>
 </div>
 ---
 
