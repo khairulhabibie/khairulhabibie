@@ -1,12 +1,25 @@
+<div align="center">
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I am using github
+</h1>
+</div>
+
+### Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/khairul-habibie-460833140/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=0072b1"  height="25" width="auto"></a>
+  </p>
+
+---
+
 ### :man_technologist: About Me
 
 - 👋 I’m @khairulhabibie
 - 👀 I’m interested in Data Science | Web Developer
 - 🌱 I’m currently learning Data Science | Web Developer
 - 🤔 I’m looking for help with youtube.com, stackoverflow, telegram community, etc
-- 📫 How to reach me   <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 - ⚡ Fun fact: I Play Rise of Kingdoms in 2315
 
 ---
