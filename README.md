@@ -1,16 +1,14 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div id="header" align="center">
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+  <img src="https://komarev.com/ghpvc/?username=khairulhabibie&style=flat-square&color=blue" alt=""/>
+</div>
+
 ---
 
 ### :man_technologist: About Me
@@ -19,7 +17,9 @@
 - 👀 I’m interested in Data Scientis | Web Developer
 - 🌱 I’m currently learning Data Scientist | Web Developer
 - 🤔 I’m looking for help with youtube.com, stackoverflow, telegram community, etc
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khairul-habibie-460833140)
+- 📫 How to reach me   <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 - ⚡ Fun fact: I Play Rise of Kingdoms in 2315
 
 ---
