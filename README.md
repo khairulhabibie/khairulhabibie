@@ -1,4 +1,9 @@
 <div align="center">
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+ 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
   <div id="badges">
     <a href=https://www.linkedin.com/in/khairul-habibie-460833140/">
@@ -6,6 +11,7 @@
     </a>
   </div>
 </div>
+                                                                                                                                  
 ---
 
 ### :man_technologist: About Me
