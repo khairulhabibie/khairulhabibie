@@ -1,12 +1,9 @@
 <div align="center">
-  <h1>
+<h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      <img src="https://giphy.com/gifs/socialbakers-JrXas5ecb4FkwbFpIE/giphy.gif" width="30px"/>
-  </h1>
+</h1>
   
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/JrXas5ecb4FkwbFpIE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/socialbakers-JrXas5ecb4FkwbFpIE">via GIPHY</a></p>
- 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
