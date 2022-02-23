@@ -1,8 +1,8 @@
 <div align="center">
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I am using github
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br/>
+  *Special for Data Science
 </h1>
 </div>
 
@@ -16,12 +16,11 @@
 
 ### :man_technologist: About Me
 
-- 👋 I’m @khairulhabibie
-- 👀 I’m interested in Data Science | Web Development
-- 🌱 I’m currently learning Data Science | Web Development
-- 🤔 I’m looking for help with youtube, stackoverflow, telegram community, etc
+- 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>
+- 👀 I’m interested in Data Science | <a href="https://github.com/khairulhabibie02">Web Development</a> 
+- 🌱 I’m currently learning Data Science | <a href="https://github.com/khairulhabibie02">Web Development</a> 
 - 🕸️ Check out my Portfolio at https://khairulhabibie.github.io/
-- ⚡ Fun fact: I Play Rise of Kingdoms in 2315
+- ⚡ Other Github : <a href="https://github.com/khairulhabibie02">khairulhabibie02</a> 
 
 ---
 
