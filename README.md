@@ -29,7 +29,7 @@
 <div>
   <a href="https://t.me/khairul_habibie" target="blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=blue"  height="35" width="auto"></a>  
   
-  [<img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=blue"  height="35" width="auto">](https://t.me/khairul_habibie")
+  [<img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=blue"  height="35" width="auto">](https://t.me/khairul_habibie)
   
   
   
