@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/khairul-habibie-460833140/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"  height="35" width="auto"></a>
-  <a href="https://wa.me/6282219660064" target="blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp%20-%23050f2c.svg?&style=for-the-badge&logo=whatsapp&logoColor=green"  height="35" width="auto"></a>  
+  <a href="https://wa.me/6282219660064" target="blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp%20-%23050f2c.svg?&style=for-the-badge&logo=whatsapp&logoColor=grenn"  height="35" width="auto"></a>  
    <a href="https://t.me/khairul_habibie" target="blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=telegram&logoColor=blue"  height="35" width="auto"></a>  
 </p>
 
@@ -27,23 +27,14 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <a href="https://t.me/khairul_habibie" ><img src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=blue"  height="35" width="auto"></a>  
-  
-  [<img src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=blue"  height="35" width="auto">](https://t.me/khairul_habibie)
-  
-  
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+  <a href="#" ><img src="https://img.shields.io/badge/react%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=gray"  height="25" width="auto"></a>  &nbsp;
+  <a href="#" ><img src="https://img.shields.io/badge/css3%20-%23050f2c.svg?&style=for-the-badge&logo=css3&logoColor=blue"  height="25" width="auto"></a>  &nbsp;
+  <a href="#" ><img src="https://img.shields.io/badge/html5%20-%23050f2c.svg?&style=for-the-badge&logo=html5&logoColor=orange"  height="25" width="auto"></a>  &nbsp;
+  <a href="#" ><img src="https://img.shields.io/badge/javascript%20-%23050f2c.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"  height="25" width="auto"></a>  &nbsp;
+  <a href="#" ><img src="https://img.shields.io/badge/python%20-%23050f2c.svg?&style=for-the-badge&logo=python&logoColor=blue"  height="25" width="auto"></a>  &nbsp;
+  <a href="#" ><img src="https://img.shields.io/badge/r%20-%23050f2c.svg?&style=for-the-badge&logo=r&logoColor=silver"  height="25" width="auto"></a>  &nbsp;
+  <a href="#" ><img src="https://img.shields.io/badge/mysql%20-%23050f2c.svg?&style=for-the-badge&logo=mysql&logoColor=orange"  height="25" width="auto"></a>  &nbsp;
+  <a href="#" ><img src="https://img.shields.io/badge/git%20-%23050f2c.svg?&style=for-the-badge&logo=git&logoColor=rainbow"  height="25" width="auto"></a>  &nbsp;
 
 ---
 
