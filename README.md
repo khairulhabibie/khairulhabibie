@@ -27,9 +27,9 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <a href="https://t.me/khairul_habibie" target="blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=blue"  height="35" width="auto"></a>  
+  <a href="https://t.me/khairul_habibie" ><img src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=blue"  height="35" width="auto"></a>  
   
-  [<img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=blue"  height="35" width="auto">](https://t.me/khairul_habibie)
+  [<img src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=blue"  height="35" width="auto">](https://t.me/khairul_habibie)
   
   
   
