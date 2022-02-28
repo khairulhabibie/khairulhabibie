@@ -16,10 +16,9 @@
 ### :man_technologist: About Me
 
 - 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>
-- 👀 I’m interested in Data Science | <a href="https://github.com/khairulhabibie02">Web Development</a> 
-- 🌱 I’m currently learning Data Science | <a href="https://github.com/khairulhabibie02">Web Development</a> 
+- ⚡ I’m interested in Data Science | Web Development
+- 🌱 I’m currently learning API | Front End Development
 - 🕸️ Check out my Portfolio at https://khairulhabibie.github.io/
-- ⚡ Other Github : <a href="https://github.com/khairulhabibie02">khairulhabibie02</a> 
 
 ---
 
