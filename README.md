@@ -10,7 +10,7 @@
 <p>
   <a href="https://www.linkedin.com/in/khairul-habibie-460833140/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"  height="35" width="auto"></a>
   <a href="https://wa.me/6282219660064" target="blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp%20-%23050f2c.svg?&style=for-the-badge&logo=whatsapp&logoColor=green"  height="35" width="auto"></a>  
-   <a href="https://t.me/khairul_habibie" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=telegram&logoColor=blue"  height="35" width="auto"></a>  
+   <a href="https://t.me/khairul_habibie" target="blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=telegram&logoColor=blue"  height="35" width="auto"></a>  
 </p>
 
 ---
@@ -27,6 +27,12 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <a href="https://t.me/khairul_habibie" target="blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=blue"  height="35" width="auto"></a>  
+  
+  [<img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=react&logoColor=blue"  height="35" width="auto">](https://t.me/khairul_habibie")
+  
+  
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
