@@ -8,7 +8,8 @@
 ### Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/khairul-habibie-460833140/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=0072b1"  height="25" width="auto"></a>
+  <a href="https://www.linkedin.com/in/khairul-habibie-460833140/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"  height="35" width="auto"></a>
+  <a href="https://wa.me/6282219660064" target="blank"><img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp%20-%23050f2c.svg?&style=for-the-badge&logo=whatsapp&logoColor=green"  height="35" width="auto"></a>  
 </p>
 
 ---
