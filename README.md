@@ -20,7 +20,7 @@
 - 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>
 - ⚡ I’m interested in Data Science | Web Development
 - 🌱 I’m currently learning Twetter API v1 | Front End Development
-- 🕸️ Check out my Portfolio at https://khairulhabibie.github.io/
+- 🕸️ Check out my Portfolio at [khairulhabibie.github.io](https://khairulhabibie.github.io/)
 
 ---
 
