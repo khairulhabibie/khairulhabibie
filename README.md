@@ -5,7 +5,7 @@
 </h1>
 </div>
 
-### Connect with me
+### Connect with me :
 
 <p>
   <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
@@ -20,7 +20,7 @@
 
 ---
 
-### :man_technologist: About Me
+### :man_technologist: About Me :
   
 - 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>
 - ⚡ I’m interested in Data Science | Web Development
