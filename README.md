@@ -24,7 +24,7 @@
   
 - 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>
 - ⚡ I’m interested in Data Science && Web Development
-- 🌱 I’m currently learning PHP dasar (live search menggunakan ajax)
+- 🌱 I’m currently learning PHP (OOP)
 - 🕸️ Check out my Portfolio at [khairulhabibie.github.io](https://khairulhabibie.github.io/)
 
 ---
