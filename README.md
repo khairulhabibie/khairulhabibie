@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
   
 - 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>
-- ⚡ I’m interested in Data Science && Web Development
+- ⚡ I’m interested in Data Science
 - 🌱 I’m currently learning PHP (Objek Oriented Programming)
 - 🕸️ Check out my Portfolio at [khairulhabibie.github.io](https://khairulhabibie.github.io/)
 
