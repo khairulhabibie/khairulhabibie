@@ -36,7 +36,6 @@
   <a href="https://www.w3schools.com/html/default.asp" ><img src="https://img.shields.io/badge/bootstrap%20-%23050f2c.svg?&style=for-the-badge&logo=css3&logoColor=blue"  height="35" width="auto"></a>  &nbsp;
   <a href="https://www.w3schools.com/bootstrap5/index.php" ><img src="https://img.shields.io/badge/html5%20-%23050f2c.svg?&style=for-the-badge&logo=html5&logoColor=orange"  height="35" width="auto"></a>  &nbsp;
   <a href="https://www.w3schools.com/js/default.asp" ><img src="https://img.shields.io/badge/javascript%20-%23050f2c.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"  height="35" width="auto"></a>  &nbsp;
-  <a href="https://www.php.net/" ><img src="https://img.shields.io/badge/PHP%20-%23050f2c.svg?&style=for-the-badge&logo=php&logoColor=blue"  height="35" width="auto"></a>  &nbsp;
   <a href="https://www.w3schools.com/python/default.asp" ><img src="https://img.shields.io/badge/python%20-%23050f2c.svg?&style=for-the-badge&logo=python&logoColor=yellow"  height="35" width="auto"></a>  &nbsp;
   <a href="https://www.w3schools.com/sql/default.asp" ><img src="https://img.shields.io/badge/mysql%20-%23050f2c.svg?&style=for-the-badge&logo=mysql&logoColor=silver"  height="35" width="auto"></a>  &nbsp;
   <a href="https://training.github.com/downloads/id/github-git-cheat-sheet/" ><img src="https://img.shields.io/badge/git%20-%23050f2c.svg?&style=for-the-badge&logo=git&logoColor=rainbow"  height="35" width="auto"></a>  &nbsp;
