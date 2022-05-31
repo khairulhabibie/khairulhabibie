@@ -10,12 +10,12 @@
 <p>
   <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"  height="35" width="auto"></a>
-  <a href="https://wa.me/6282219660064">
+<!--   <a href="https://wa.me/6282219660064">
   <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp%20-%23050f2c.svg?&style=for-the-badge&logo=whatsapp&logoColor=grenn"  height="35" width="auto"></a>  
   <a href="https://t.me/khairulhabibie" target="blank">
   <img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=telegram&logoColor=blue"  height="35" width="auto"></a>  
   <a href="https://www.instagram.com/khairulhabibie01/">
-  <img alt="Telegram" src="https://img.shields.io/badge/instagram%20-%23050f2c.svg?&style=for-the-badge&logo=instagram&logoColor=orange"  height="35" width="auto"></a>
+  <img alt="Telegram" src="https://img.shields.io/badge/instagram%20-%23050f2c.svg?&style=for-the-badge&logo=instagram&logoColor=orange"  height="35" width="auto"></a> -->
 </p>
 
 ---
