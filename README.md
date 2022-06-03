@@ -22,8 +22,6 @@
   
 - 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>
 - ⚡ I’m interested in Web Development and Data Science
-- 🌱 I Learn From :
-  - [freeecodecamp.org](https://www.freecodecamp.org/khairulhabibie)
 - 🕸️ Check out my Portfolio at [khairulhabibie.github.io](https://khairulhabibie.github.io/)
 
 ---
