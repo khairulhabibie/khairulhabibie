@@ -21,7 +21,8 @@
 ### :man_technologist: About Me :
   
 - 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>
-- ⚡ I’m interested in Web Development and Data Science
+- 🌱 a graduate from Dept of Physics Padjadjaran University
+- ⚡ Interest with Data dan Web Development
 - 🕸️ Check out my Portfolio at [khairulhabibie.github.io](https://khairulhabibie.github.io/)
 
 ---
