@@ -20,10 +20,10 @@
 
 ### :man_technologist: About Me :
   
-- 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>
-- 🌱 a graduate from Dept of Physics Padjadjaran University
+- 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>, from Indonesian.
+- 🌱 a graduate from Deptement of Physics Padjadjaran University
 - ⚡ Interest with Data dan Web Development
-- 🕸️ Check out my Portfolio at [khairulhabibie.github.io](https://khairulhabibie.github.io/)
+- 🕸️ You can see my portofolion at [khairulhabibie.github.io](https://khairulhabibie.github.io/)
 
 ---
 
