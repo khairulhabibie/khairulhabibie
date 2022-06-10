@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me :
   
-- 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>, from Indonesia
+- 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>, from Indonesian
 - 🌱 a graduate from Deptement of Physics Padjadjaran University
 - ⚡ Interest with Data dan Web Development
 - 🕸️ You can see my portofolion at [khairulhabibie.github.io](https://khairulhabibie.github.io/)
