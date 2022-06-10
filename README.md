@@ -22,8 +22,6 @@
   <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp%20-%23050f2c.svg?&style=for-the-badge&logo=whatsapp&logoColor=grenn"  height="35" width="auto"></a>  
   <a href="https://t.me/khairulhabibie" target="blank">
   <img alt="Telegram" src="https://img.shields.io/badge/telegram%20-%23050f2c.svg?&style=for-the-badge&logo=telegram&logoColor=blue"  height="35" width="auto"></a>  
-  <a href="https://www.instagram.com/khairulhabibie01/">
-  <img alt="Telegram" src="https://img.shields.io/badge/instagram%20-%23050f2c.svg?&style=for-the-badge&logo=instagram&logoColor=orange"  height="35" width="auto"></a>
 </p>
 
 ---
