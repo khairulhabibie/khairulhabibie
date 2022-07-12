@@ -12,7 +12,7 @@
 
 ---
 
-### 📲 Feel free to call me :
+### 📲 Contact :
 
 <p>
   <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
