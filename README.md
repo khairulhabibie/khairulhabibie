@@ -7,7 +7,7 @@
 ### :man_technologist: About Me :
   
 - 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>, from Indonesian
-- 🌱 a Frontend Engineer
+- 🌱 Growing 1 percent per day
 - 🕸️ Let's see my portofolio on [khairulhabibie.github.io](https://khairulhabibie.github.io/)
 
 ---
