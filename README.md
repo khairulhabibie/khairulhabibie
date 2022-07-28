@@ -32,6 +32,7 @@
   <a href="https://www.python.org/" ><img src="https://img.shields.io/badge/python%20-%23050f2c.svg?&style=for-the-badge&logo=python&logoColor=yellow"  height="35" width="auto"></a>  &nbsp;
   <a href="https://www.mysql.com/" ><img src="https://img.shields.io/badge/mysql%20-%23050f2c.svg?&style=for-the-badge&logo=mysql&logoColor=silver"  height="35" width="auto"></a>  &nbsp;
   <a href="https://training.github.com/downloads/id/github-git-cheat-sheet/" ><img src="https://img.shields.io/badge/git%20-%23050f2c.svg?&style=for-the-badge&logo=git&logoColor=rainbow"  height="35" width="auto"></a>  &nbsp;
+   <a href="https://ubuntu.com/" ><img src="https://img.shields.io/badge/Ubuntu%20-%23050f2c.svg?&style=for-the-badge&logo=ubuntu&logoColor=rainbow"  height="35" width="auto"></a>  &nbsp;
   
 ---
 
