@@ -12,7 +12,7 @@
 
 ### :hammer_and_wrench: Tools
   <a href="https://training.github.com/downloads/id/github-git-cheat-sheet/" ><img src="https://img.shields.io/badge/git%20-%23050f2c.svg?&style=for-the-badge&logo=git&logoColor=rainbow"  height="35" width="auto"></a>  &nbsp;
-  <a href="https://ubuntu.com/" ><img src="https://img.shields.io/badge/linux cli%20-%23050f2c.svg?&style=for-the-badge&logo=linux&logoColor=rainbow"  height="35" width="auto"></a>  &nbsp;
+  <a href="https://www.linux.org/" ><img src="https://img.shields.io/badge/linux cli%20-%23050f2c.svg?&style=for-the-badge&logo=linux&logoColor=gray"  height="35" width="auto"></a>  &nbsp;
   <a href="https://code.visualstudio.com/" ><img src="https://img.shields.io/badge/vsCode%20-%23050f2c.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=blue"  height="35" width="auto"></a>  &nbsp;
   
 ---
