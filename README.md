@@ -1,26 +1,3 @@
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>  
-  <h1>hey there</h1>
-</div>
- -->
-
-### :man_technologist: Who am I :
-  
-- 👋 I’m <a href="https://github.com/khairulhabibie">khairulhabibie</a>, from Indonesian
-- 🌱 Growing 1 percent per day
-- 🕸️ Let's see my portofolio on [khairulhabibie.github.io](https://khairulhabibie.github.io/)
-
----
-
-### 📲 Call me at :
-
-<p>
-  <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"  height="35" width="auto"></a>
-</p>
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
  
   <a href="https://www.w3schools.com/css/default.asp" ><img src="https://img.shields.io/badge/css3%20-%23050f2c.svg?&style=for-the-badge&logo=css3&logoColor=blue"  height="35" width="auto"></a>  &nbsp;
@@ -42,3 +19,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khairulhabibie&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairulhabibie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📲 Contact me :
+
+<p>
+  <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"  height="35" width="auto"></a>
+</p>
