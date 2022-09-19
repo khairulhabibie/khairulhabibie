@@ -25,6 +25,8 @@
 ### 📲 Contact me :
 
 <p>
-  <a href="https://www.linkedin.com/in/khairul-habibie-460833140/">
+  <a href="https://www.linkedin.com/in/khairulhabibie">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"  height="35" width="auto"></a>
+  <a href="https://twitter.com/khekhairul">
+  <img alt="Twitter" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=twitter&logoColor=blue"  height="35" width="auto"></a>
 </p>
