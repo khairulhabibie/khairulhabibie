@@ -1,8 +1,7 @@
 ### :hammer_and_wrench: Languages :
  
   <a href="https://www.w3schools.com/css/default.asp" ><img src="https://img.shields.io/badge/css3%20-%23050f2c.svg?&style=for-the-badge&logo=css3&logoColor=blue"  height="35" width="auto"></a>  &nbsp;
-  <a href="https://sass-lang.com/" ><img src="https://img.shields.io/badge/sass3%20-%23050f2c.svg?&style=for-the-badge&logo=sass&logoColor=purple"  height="35" width="auto"></a>  &nbsp;
-  <a href="https://tailwindcss.com/" ><img src="https://img.shields.io/badge/tailwindcss%20-%23050f2c.svg?&style=for-the-badge&logo=tailwindcss&logoColor=blue"  height="35" width="auto"></a>  &nbsp;
+  <a href="https://sass-lang.com/" ><img src="https://img.shields.io/badge/sass%20-%23050f2c.svg?&style=for-the-badge&logo=sass&logoColor=purple"  height="35" width="auto"></a>  &nbsp;
   <a href="https://getbootstrap.com/" ><img src="https://img.shields.io/badge/bootstrap%20-%23050f2c.svg?&style=for-the-badge&logo=bootstrap&logoColor=blue"  height="35" width="auto"></a>  &nbsp;
   <a href="https://www.w3schools.com/bootstrap5/index.php" ><img src="https://img.shields.io/badge/html%20-%23050f2c.svg?&style=for-the-badge&logo=html5&logoColor=orange"  height="35" width="auto"></a>  &nbsp;
   <a href="https://www.w3schools.com/js/default.asp" ><img src="https://img.shields.io/badge/javascript%20-%23050f2c.svg?&style=for-the-badge&logo=javascript&logoColor=yellow"  height="35" width="auto"></a>  &nbsp;
