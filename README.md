@@ -18,16 +18,9 @@
   
 ---
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairulhabibie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📲 Contact me :
 
 <p>
   <a href="https://www.linkedin.com/in/khairulhabibie">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%23050f2c.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"  height="35" width="auto"></a>
-  <a href="https://twitter.com/khekhairul">
-  <img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%23050f2c.svg?&style=for-the-badge&logo=twitter&logoColor=blue"  height="35" width="auto"></a>
 </p>
