@@ -1,10 +1,3 @@
-# 💫 About Me:
-🌱 I work with React Ecosystem
-
-# ✍️ My Projects:
-<p>✈️ portofolio : https://khairulhabibie.github.io/</p>
-<p>🛩️ bookshelf / rak buku : https://bookshelf-v1-by-khairul.netlify.app/</p>
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khairulhabibie) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/khekhairul) 
 
